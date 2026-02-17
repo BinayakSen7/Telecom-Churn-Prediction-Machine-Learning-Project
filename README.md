@@ -93,7 +93,7 @@ Decision Tree
 
 Random Forest
 
-(Optional) Gradient Boosting / XGBoost
+(Optional)Gradient Boosting / XGBoost
 
 5️⃣ Model Evaluation
 
